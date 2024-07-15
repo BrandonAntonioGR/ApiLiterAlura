@@ -3,7 +3,7 @@ Api Challenge de literatura
 
 Sean bienvenidos a mi api de literatura esta consume la api de Libros de la pagina https://gutendex.com/
 
-Les muestro a continuacion el alcance de las conversiones de divisas
+Les muestro a continuacion el alcance de las opciones de menu por terminal de mi api LiterAlura
 1 - Buscar series 
 2 - Buscar episodios
 3 - Mostrar series buscadas
